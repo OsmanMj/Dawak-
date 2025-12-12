@@ -35,7 +35,7 @@ class SettingsTab extends StatelessWidget {
           const Divider(),
           ListTile(
             leading: const Icon(Icons.restart_alt, color: Colors.orange),
-            title: const Text('كيفية استخدا التطبيق؟'),
+            title: const Text('كيفية استخدام التطبيق؟'),
             onTap: () {
               Navigator.push(context,
                   MaterialPageRoute(builder: (_) => const OnboardingScreen()));
