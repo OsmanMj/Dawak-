@@ -163,9 +163,9 @@ Go to the Profile tab to:
 
 ## Screenshots
 
-| Dashboard | Add Medication | History | Profile | Settings |
-| :---: | :---: | :---: | :---: | :---: |
-| <img src="assets/screenshots/dashboard.png" width="200" /> | <img src="assets/screenshots/add_med.png" width="200" /> | <img src="assets/screenshots/history.png" width="200" /> | <img src="assets/screenshots/profile.png" width="200" /> | <img src="assets/screenshots/settings_in_phone.png" width="200" /> |
+ Dashboard | Add Medication | History | Profile | Settings | Notification |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| <img src="assets/screenshots/dashboard.png" width="200" /> | <img src="assets/screenshots/add_med.png" width="200" /> | <img src="assets/screenshots/history.png" width="200" /> | <img src="assets/screenshots/profile.png" width="200" /> | <img src="assets/screenshots/settings.png" width="200" /> | <img src="assets/screenshots/notification.png" width="200" /> |
 
 
 <br>
